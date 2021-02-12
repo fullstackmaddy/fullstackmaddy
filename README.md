@@ -1,4 +1,4 @@
-<p >
+<p align='centre' >
     <img src="./generalimages/profilepic.jpg" alt="ProfilePic"
 	title="Profile Pic" width="500" height = "500"style="display: block;
   margin-left: auto;
@@ -9,7 +9,7 @@
 
 ## Hi dear reader, I am Mandar Dharmadhikari
 
-I am an intergation developer and architect by profession. I have worked as an integration developer, designer architect for better part of 9 years. A recent dash with blazor framework sparked my interest in full stack development.  Over the years I have written many articles on Mircrosoft's technet wiki and have done public presentations aroun Microsoft Integration tech stack. You can find my presentation slides at [My Presentation Slides]("https://github.com/fullstackmaddy/Presentations"). I have recently started a static blog site using Hugo and GitHub pages. You can read more about it at [FullStackMaddy]("https://fullstackmaddy.github.io/")
+I am an intergation developer and architect by profession. I have worked as an integration developer, designer architect for better part of 9 years. A recent dash with blazor framework sparked my interest in full stack development.  Over the years I have written many articles on Mircrosoft's technet wiki and have done public presentations aroun Microsoft Integration tech stack. You can find my presentation slides at [My Presentation Slides](https://github.com/fullstackmaddy/Presentations). I have recently started a static blog site using Hugo and GitHub pages. You can read more about it at [FullStackMaddy](https://fullstackmaddy.github.io/)
 
 ## Tech Stack I work with
 
