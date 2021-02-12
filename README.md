@@ -1,4 +1,4 @@
-<p align='centre' >
+<p align='center' >
     <img src="./generalimages/profilepic.jpg" alt="ProfilePic"
 	title="Profile Pic" width="500" height = "500"style="display: block;
   margin-left: auto;
